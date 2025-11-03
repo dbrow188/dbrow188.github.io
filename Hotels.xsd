@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xsd:schema targetNamespace="https://github.com/dbrow188/dbrow188.github.io.git/Hotels.xsd"
+<xsd:schema targetNamespace="https://github.com/dbrow188/dbrow188.github.io/Hotels.xsd"
     elementFormDefault="qualified"
 	attributeFormDefault="unqualified"
-    xmlns="https://github.com/dbrow188/dbrow188.github.io.git/Hotels.xsd"
+    xmlns="https://github.com/dbrow188/dbrow188.github.io/Hotels.xsd"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-	xmlns:bs="https://github.com/dbrow188/dbrow188.github.io.git/Hotels.xsd">
+	xmlns:bs="https://github.com/dbrow188/dbrow188.github.io/Hotels.xsd">
 
 	<xsd:element name="Hotels" type="HotelsType"/>
 
@@ -36,3 +36,4 @@
 	</xsd:complexType>
 	
 </xsd:schema>
+
