@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel xmlns="https://github.com/dbrow188/dbrow188.github.io.git/Hotels.xsd"
+<Hotel xmlns="https://github.com/dbrow188/dbrow188.github.io/Hotels.xsd"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		xsi:schemaLocation="https://github.com/dbrow188/dbrow188.github.io.git/Hotels.xsd Hotels.xsd">
+		xsi:schemaLocation="https://github.com/dbrow188/dbrow188.github.io/Hotels.xsd Hotels.xsd">
 
 	<!-- Missing NearestAirport-->
 	<Hotel Rating="4.5">
@@ -125,4 +125,5 @@
 			<Zip>86040</Zip>
 		</Address>
 	</Hotel>
+
 </Hotel>
