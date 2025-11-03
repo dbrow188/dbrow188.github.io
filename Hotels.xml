@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels xmlns="https://github.com/dbrow188/dbrow188.github.io.git/Hotels.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="https://github.com/dbrow188/dbrow188.github.io.git/Hotels.xsd Hotels.xsd">
+
+	<Hotel Rating="4.5">
+		<Name>Desert Oasis Resort</Name>
+		<Phone>520-555-1234</Phone>
+		<Address NearestAirport="PHX">
+			<Number>1001</Number>
+			<Street>Sunny Street</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85001</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Cactus Bloom Inn</Name>
+		<Phone>602-555-2345</Phone>
+		<Phone>602-555-6789</Phone>
+		<Address NearestAirport="TUS">
+			<Number>2002</Number>
+			<Street>Prickly Pear Road</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85701</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.8">
+		<Name>Red Rock Lodge</Name>
+		<Phone>928-555-3456</Phone>
+		<Address NearestAirport="FLG">
+			<Number>3003</Number>
+			<Street>Desert Trail</Street>
+			<City>Flagstaff</City>
+			<State>AZ</State>
+			<Zip>86001</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Saguaro Springs Resort</Name>
+		<Phone>928-555-4567</Phone>
+		<Address NearestAirport="DVT">
+			<Number>4004</Number>
+			<Street>Mountain Road</Street>
+			<City>Prescott</City>
+			<State>AZ</State>
+			<Zip>86301</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Sonoran Sun Hotel</Name>
+		<Phone>520-555-5678</Phone>
+		<Address NearestAirport="CGZ">
+			<Number>5005</Number>
+			<Street>Sonoran Boulevard</Street>
+			<City>Casa Grande</City>
+			<State>AZ</State>
+			<Zip>85122</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Desert Rose Inn</Name>
+		<Phone>480-555-6789</Phone>
+		<Address NearestAirport="PHX">
+			<Number>6006</Number>
+			<Street>Rose Lane</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85251</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.0">
+		<Name>Red Mountain Hotel</Name>
+		<Phone>602-555-7890</Phone>
+		<Address NearestAirport="PHX">
+			<Number>7007</Number>
+			<Street>Red Mountain Road</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85201</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Copper Canyon Lodge</Name>
+		<Phone>928-555-8901</Phone>
+		<Address NearestAirport="CLD">
+			<Number>8008</Number>
+			<Street>Copper Canyon Drive</Street>
+			<City>Claypool</City>
+			<State>AZ</State>
+			<Zip>85532</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="3.7">
+		<Name>High Desert Motel</Name>
+		<Phone>928-555-9012</Phone>
+		<Address NearestAirport="LSE">
+			<Number>9009</Number>
+			<Street>High Desert Road</Street>
+			<City>Lake Havasu City</City>
+			<State>AZ</State>
+			<Zip>86403</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Canyon View Inn</Name>
+		<Phone>928-555-0123</Phone>
+		<Phone>928-555-3210</Phone>
+		<Address NearestAirport="PGA">
+			<Number>1010</Number>
+			<Street>Canyon Road</Street>
+			<City>Page</City>
+			<State>AZ</State>
+			<Zip>86040</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
